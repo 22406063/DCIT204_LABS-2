@@ -1,0 +1,65 @@
+````md
+# DCIT 204 – Lab 2: Interactive Array Algorithms
+
+## Student Information
+- Name: Solomon Kwesi Arhinful
+- Student ID: 22406063
+
+---
+
+## Programs Included
+
+### 1. FindMax.java
+This program:
+- Accepts array size from the user
+- Accepts array elements
+- Finds the maximum value
+- Displays the maximum value and its index
+
+### 2. PairSum.java
+This program:
+- Accepts array size from the user
+- Accepts array elements
+- Accepts a target sum
+- Uses a brute-force nested loop to find a pair
+- Displays the matching indices and values
+
+---
+
+## Concepts Used
+- Arrays
+- Scanner class
+- Loops
+- Linear Search
+- Nested Loops
+- Brute Force Algorithm
+
+---
+
+## Time Complexity
+
+### FindMax.java
+- Time Complexity: O(n)
+
+### PairSum.java
+- Time Complexity: O(n²)
+
+---
+
+## How to Run
+
+Compile:
+```bash
+javac FindMax.java
+javac PairSum.java
+````
+
+Run:
+
+```bash
+java FindMax
+java PairSum
+```
+
+```
+```
